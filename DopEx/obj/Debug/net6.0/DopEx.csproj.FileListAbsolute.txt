@@ -1,0 +1,15 @@
+C:\Users\happy\Desktop\C#\Sem2\Sem2\DopEx\obj\Debug\net6.0\DopEx.csproj.AssemblyReference.cache
+C:\Users\happy\Desktop\C#\Sem2\Sem2\DopEx\obj\Debug\net6.0\DopEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\happy\Desktop\C#\Sem2\Sem2\DopEx\obj\Debug\net6.0\DopEx.AssemblyInfoInputs.cache
+C:\Users\happy\Desktop\C#\Sem2\Sem2\DopEx\obj\Debug\net6.0\DopEx.AssemblyInfo.cs
+C:\Users\happy\Desktop\C#\Sem2\Sem2\DopEx\obj\Debug\net6.0\DopEx.csproj.CoreCompileInputs.cache
+C:\Users\happy\Desktop\C#\Sem2\Sem2\DopEx\bin\Debug\net6.0\DopEx.exe
+C:\Users\happy\Desktop\C#\Sem2\Sem2\DopEx\bin\Debug\net6.0\DopEx.deps.json
+C:\Users\happy\Desktop\C#\Sem2\Sem2\DopEx\bin\Debug\net6.0\DopEx.runtimeconfig.json
+C:\Users\happy\Desktop\C#\Sem2\Sem2\DopEx\bin\Debug\net6.0\DopEx.dll
+C:\Users\happy\Desktop\C#\Sem2\Sem2\DopEx\bin\Debug\net6.0\DopEx.pdb
+C:\Users\happy\Desktop\C#\Sem2\Sem2\DopEx\obj\Debug\net6.0\DopEx.dll
+C:\Users\happy\Desktop\C#\Sem2\Sem2\DopEx\obj\Debug\net6.0\refint\DopEx.dll
+C:\Users\happy\Desktop\C#\Sem2\Sem2\DopEx\obj\Debug\net6.0\DopEx.pdb
+C:\Users\happy\Desktop\C#\Sem2\Sem2\DopEx\obj\Debug\net6.0\DopEx.genruntimeconfig.cache
+C:\Users\happy\Desktop\C#\Sem2\Sem2\DopEx\obj\Debug\net6.0\ref\DopEx.dll
